@@ -14,8 +14,8 @@ for building random video chat applications.
 - Moderation without accounts
 
 ## Real World Example
-Chatzyo https://chatzyo.in built with vanilla 
-JavaScript Node.js and Coturn. Serving users 
+Chatzyo https://chatzyo.in built with  
+JavaScript Node.js and Socket io. Serving users 
 across 15 countries with zero accounts.
 
 ## Key Challenges Solved
